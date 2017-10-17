@@ -12,6 +12,9 @@ sudo npm install express-generator -g
 # Pm2 Install
 sudo npm install pm2 -g
 
+# Git Install
+sudo apt-get install git
+
 # Mysql Install
 sudo apt-get update
 sudo apt-get install mysql-server
